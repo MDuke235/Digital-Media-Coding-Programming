@@ -1,0 +1,11 @@
+Model Information:
+* title:	Cabina de podcast campus sur
+* source:	https://sketchfab.com/3d-models/cabina-de-podcast-campus-sur-64109fa3d4b84eb09ab909207519061e
+* author:	Biblioteca UVG (https://sketchfab.com/Biblioteca.UVG)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Cabina de podcast campus sur" (https://sketchfab.com/3d-models/cabina-de-podcast-campus-sur-64109fa3d4b84eb09ab909207519061e) by Biblioteca UVG (https://sketchfab.com/Biblioteca.UVG) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
